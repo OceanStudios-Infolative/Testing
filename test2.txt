@@ -1,1 +1,1 @@
-This is test case TWO.
+This is test case 2.
